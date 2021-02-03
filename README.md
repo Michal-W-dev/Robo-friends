@@ -1,5 +1,5 @@
-# Robo-friends
+# [Robo-friends](https://michal-w-dev.github.io/Robo-friends/)
 
-Robo-friends created with React.
+<p> Robo-friends created with React. </p>
 <br>
 <img src="imgs/readme1.png" width="700px">
