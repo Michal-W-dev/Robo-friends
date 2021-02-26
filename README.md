@@ -2,4 +2,4 @@
 
 <p> Robo-friends created with React. </p>
 <br>
-<img src="src/imgs/readme1.png" width="700px">
+<img src="assets/imgs/readme1.png" width="700px">
