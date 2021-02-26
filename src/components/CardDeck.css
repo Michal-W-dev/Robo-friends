@@ -1,0 +1,7 @@
+.CardDeck {
+    max-width: 1250px;
+    margin: 15px auto;
+    display:flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
